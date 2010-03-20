@@ -1,0 +1,11 @@
+Veex RMI is an attempt to provide a Java RMI application (a server and a sample client) to execute commands on a remote machine and serving the output of the commands run to the client.
+
+The application doesn't focus on security (at the time writting), but it will in the future. 
+
+Note that this project is just a proof of concept, and the Veex RMI server, along with an Eclipse plug-in are being developed here: 
+
+http://www.gavab.etsii.urjc.es/wiki/veex/
+
+Veex RMI is licensed under Eclipse Public License v1.0:
+
+http://www.eclipse.org/legal/epl-v10.html
